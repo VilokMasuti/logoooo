@@ -68,7 +68,7 @@ const ArtistCard = ({ name, username, image }) => (
     <div className="absolute bottom-0 left-0 p-3 text-white">
       <div className="flex items-center gap-2">
         <img
-          src="/assets/side.png"
+          src="/assets/pexels-ekaterina-12203460@2x.png"
           alt={name}
           className="w-8 h-8 rounded-full border-2 border-white"
         />
@@ -149,32 +149,32 @@ export default function Layout({ children }) {
                     <ArtistCard
                       name="James Edward"
                       username="jamesart"
-                      image="/assets/side.png"
+                      image="/assets/pexels-ekaterina-12203460@2x.png"
                     />
                     <ArtistCard
                       name="Chris Pine"
                       username="chriscreative"
-                      image="/assets/side.png"
+                      image="/assets/pexels-ekaterina-12203460@2x.png"
                     />
                     <ArtistCard
                       name="Emma Jones"
                       username="emmadesigns"
-                      image="/assets/side.png"
+                      image="/assets/pexels-ekaterina-12203460@2x.png"
                     />
                     <ArtistCard
                       name="Jessica Williams"
                       username="jessicaart"
-                      image="/assets/side.png"
+                      image="/assets/pexels-ekaterina-12203460@2x.png"
                     />
                     <ArtistCard
                       name="Michael Chen"
                       username="mchenart"
-                      image="/assets/side.png"
+                      image="/assets/pexels-ekaterina-12203460@2x.png"
                     />
                     <ArtistCard
                       name="Sarah Parker"
                       username="sparkdesigns"
-                      image="/assets/side.png"
+                      image="/assets/pexels-ekaterina-12203460@2x.png"
                     />
                   </div>
                 </ScrollArea>
